@@ -1,4 +1,4 @@
-
+//draws a dumb rat
 void setup(){
  size(1500,1000);
  background(255,255,255);
